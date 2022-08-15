@@ -11,7 +11,8 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author" :{
+	"author" : "Fisseha Estifanos",
+	"author details": {
 		"name": "Fisseha Estifanos",
 		"email": "Fisseha.137@gmail.com",
 		"github profile": "https://github.com/Fisseha-Estifanos",
