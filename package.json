@@ -10,5 +10,11 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
+	},
+	"Author" :{
+		"Name": "Fisseha Estifanos",
+		"email": "Fisseha.137@gmail.com",
+		"github profile": "https://github.com/Fisseha-Estifanos",
+		"linkedin profile": "https://www.linkedin.com/in/fisseha-estifanos-109ba6199/"
 	}
 }
