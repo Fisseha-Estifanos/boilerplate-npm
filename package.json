@@ -17,5 +17,6 @@
 		"github profile": "https://github.com/Fisseha-Estifanos",
 		"linkedin profile": "https://www.linkedin.com/in/fisseha-estifanos-109ba6199/"
 	},
-	"description": "This is a Node js backend training project from the freecodecamp website. If successful it will grow to be the backend for my ROPHNAN project."
+	"description": "This is a Node js backend training project from the freecodecamp website. If successful it will grow to be the backend for my ROPHNAN project.",
+	"keywords": ["Backend", "Nodejs", "freecodecamp", "initial training", "learning path"]
 }
