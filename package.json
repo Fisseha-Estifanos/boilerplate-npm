@@ -1,6 +1,6 @@
 {
-	"author" : "Fisseha Estifanos",
 	"name": "fcc-learn-npm-package-json",
+	"author" : "Fisseha Estifanos",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
