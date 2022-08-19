@@ -1,5 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "0.0.1",
+	"description": "This is a Node js backend training project from the freecodecamp website. If successful it will grow to be the backend for my ideal project named 'the ROPHNAN'.",
+	"keywords": ["Backend", "Nodejs", "npm", "freecodecamp", "initial training", "learning path"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -17,9 +21,5 @@
 		"email": "Fisseha.137@gmail.com",
 		"github profile": "https://github.com/Fisseha-Estifanos",
 		"linkedin profile": "https://www.linkedin.com/in/fisseha-estifanos-109ba6199/"
-	},
-	"description": "This is a Node js backend training project from the freecodecamp website. If successful it will grow to be the backend for my ideal project named 'the ROPHNAN'.",
-	"keywords": ["Backend", "Nodejs", "freecodecamp", "initial training", "learning path"],
-	"license": "MIT",
-	"version": "0.0.1"
+	}
 }
